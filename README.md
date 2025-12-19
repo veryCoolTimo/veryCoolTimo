@@ -2,6 +2,6 @@
 
 ### GitHub + Azure DevOps Commits
 
-![Commits Heatmap](https://raw.githubusercontent.com/veryCoolTimo/AzureCommitsExporter/main/commits-heatmap.svg)
+<img src="https://raw.githubusercontent.com/veryCoolTimo/AzureCommitsExporter/main/commits-heatmap.svg" alt="Commits Heatmap"/>
 
-![Streak Stats](https://raw.githubusercontent.com/veryCoolTimo/AzureCommitsExporter/main/streak-stats.svg)
+<img src="https://raw.githubusercontent.com/veryCoolTimo/AzureCommitsExporter/main/streak-stats.svg" alt="Streak Stats"/>
